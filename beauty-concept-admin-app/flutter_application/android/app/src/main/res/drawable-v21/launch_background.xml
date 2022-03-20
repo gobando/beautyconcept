@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ File name: launch_background.xml
+  ~ Last modified: 2022.02.17 at 10:44:15
+  ~ Author: SmarterVision - https://codecanyon.net/user/smartervision
+  ~ Copyright (c) 2022
+  -->
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:gravity="fill" android:src="@drawable/background"/>
+    </item>
+    <item>
+        <bitmap android:gravity="center" android:src="@drawable/splash"/>
+    </item>
+</layer-list>

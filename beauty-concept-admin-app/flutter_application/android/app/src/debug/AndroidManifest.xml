@@ -1,0 +1,14 @@
+<!--
+  ~ File name: AndroidManifest.xml
+  ~ Last modified: 2022.02.16 at 22:12:53
+  ~ Author: SmarterVision - https://codecanyon.net/user/smartervision
+  ~ Copyright (c) 2022
+  -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.smartersvision.beauty_salons">
+    <!-- Flutter needs it to communicate with the running application
+         to allow setting breakpoints, to provide hot reload, etc.
+    -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
